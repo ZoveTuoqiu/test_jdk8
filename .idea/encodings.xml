@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/main/java/LambdaTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/concurrent/CountDownLatchTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/concurrent/CyclicBarrierTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/concurrent/SemaphoreTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/config/DistributedPropertyPlaceholderConfigurer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/config/IPropertySupport.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/config/LocalProperty.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/config/PropertyChangeListener.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/config/PropertyUnit.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/config/PropertyUnitFactory.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/config/RemoteProperty.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/config/UnitConfig.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/config/UnitFile.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/curator/NodeCacheTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/curator/PathCacheTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/config.properties" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

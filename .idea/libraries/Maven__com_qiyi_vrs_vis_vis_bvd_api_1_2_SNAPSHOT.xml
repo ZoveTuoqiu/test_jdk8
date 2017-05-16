@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.qiyi.vrs.vis:vis-bvd-api:1.2-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/qiyi/vrs/vis/vis-bvd-api/1.2-SNAPSHOT/vis-bvd-api-1.2-20161117.014658-258.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/qiyi/vrs/vis/vis-bvd-api/1.2-SNAPSHOT/vis-bvd-api-1.2-20161117.014658-258-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/qiyi/vrs/vis/vis-bvd-api/1.2-SNAPSHOT/vis-bvd-api-1.2-20161117.014658-258-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

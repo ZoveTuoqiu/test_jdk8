@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.qiyi.walle:walle-app-web-core:1.3-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/qiyi/walle/walle-app-web-core/1.3-SNAPSHOT/walle-app-web-core-1.3-20161021.070816-136.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/qiyi/walle/walle-app-web-core/1.3-SNAPSHOT/walle-app-web-core-1.3-20161021.070816-136-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/qiyi/walle/walle-app-web-core/1.3-SNAPSHOT/walle-app-web-core-1.3-20161021.070816-136-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

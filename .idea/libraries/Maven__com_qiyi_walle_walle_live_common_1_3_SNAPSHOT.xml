@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.qiyi.walle:walle-live-common:1.3-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/qiyi/walle/walle-live-common/1.3-SNAPSHOT/walle-live-common-1.3-20160812.105219-2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/qiyi/walle/walle-live-common/1.3-SNAPSHOT/walle-live-common-1.3-20160812.105219-2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/qiyi/walle/walle-live-common/1.3-SNAPSHOT/walle-live-common-1.3-20160812.105219-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

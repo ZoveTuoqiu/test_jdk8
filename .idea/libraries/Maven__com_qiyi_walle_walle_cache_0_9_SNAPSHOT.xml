@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.qiyi.walle:walle-cache:0.9-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/qiyi/walle/walle-cache/0.9-SNAPSHOT/walle-cache-0.9-20160317.030814-2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/qiyi/walle/walle-cache/0.9-SNAPSHOT/walle-cache-0.9-20160317.030814-2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/qiyi/walle/walle-cache/0.9-SNAPSHOT/walle-cache-0.9-20160317.030814-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

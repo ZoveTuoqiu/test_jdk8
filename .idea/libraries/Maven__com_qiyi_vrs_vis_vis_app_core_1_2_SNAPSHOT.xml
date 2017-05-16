@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.qiyi.vrs.vis:vis-app-core:1.2-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/qiyi/vrs/vis/vis-app-core/1.2-SNAPSHOT/vis-app-core-1.2-20161114.055602-219.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/qiyi/vrs/vis/vis-app-core/1.2-SNAPSHOT/vis-app-core-1.2-20161114.055602-219-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/qiyi/vrs/vis/vis-app-core/1.2-SNAPSHOT/vis-app-core-1.2-20161114.055602-219-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

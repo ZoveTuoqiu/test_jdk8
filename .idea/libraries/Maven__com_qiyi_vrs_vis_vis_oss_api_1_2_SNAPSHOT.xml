@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.qiyi.vrs.vis:vis-oss-api:1.2-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/qiyi/vrs/vis/vis-oss-api/1.2-SNAPSHOT/vis-oss-api-1.2-20140228.103057-3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/qiyi/vrs/vis/vis-oss-api/1.2-SNAPSHOT/vis-oss-api-1.2-20140228.103057-3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/qiyi/vrs/vis/vis-oss-api/1.2-SNAPSHOT/vis-oss-api-1.2-20140228.103057-3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.qiyi.vrs.vis:vis-remote-client:1.2.11-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/qiyi/vrs/vis/vis-remote-client/1.2.11-SNAPSHOT/vis-remote-client-1.2.11-20161114.021955-19.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/qiyi/vrs/vis/vis-remote-client/1.2.11-SNAPSHOT/vis-remote-client-1.2.11-20161114.021955-19-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/qiyi/vrs/vis/vis-remote-client/1.2.11-SNAPSHOT/vis-remote-client-1.2.11-20161114.021955-19-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

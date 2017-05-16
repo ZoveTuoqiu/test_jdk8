@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.qiyi.vrs.vis:vis-app-neo-core:1.2-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/qiyi/vrs/vis/vis-app-neo-core/1.2-SNAPSHOT/vis-app-neo-core-1.2-20161027.073337-72.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/qiyi/vrs/vis/vis-app-neo-core/1.2-SNAPSHOT/vis-app-neo-core-1.2-20161027.073337-72-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/qiyi/vrs/vis/vis-app-neo-core/1.2-SNAPSHOT/vis-app-neo-core-1.2-20161027.073337-72-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
